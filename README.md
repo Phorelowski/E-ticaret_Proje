@@ -4,4 +4,5 @@ Kullandığım Araçlar:
 Excel -> Veri Temizliği  
 Sql Server -> Veriyi Grafikler İçin Filtreleme  
 Power BI -> Grafik Oluşturma  
-Veri Seti Linki : https://www.kaggle.com/datasets/carrie1/ecommerce-data
+Veri Seti Linki : https://www.kaggle.com/datasets/carrie1/ecommerce-data    
+Trade_Raporlar.pdf dosyasından oluşturduğum görsellere erişebilirsiniz.
